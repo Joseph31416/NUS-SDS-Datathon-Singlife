@@ -1,4 +1,8 @@
 # NUS-SDS-Datathon-Singlife
+main
+hi
+hi back
+
 
 ## Dataset Handling Guidelines
 - The dataset is provided by Singlife. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
@@ -8,6 +12,7 @@
 - The forked repository is public by default and it can't be made private. If you wish to collaborate on the project through GitHub, you can create a private repository and add your teammates as collaborators. 
 - [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) is a set of instructions to create a private mirror of the repository.
 - Make sure to make your repository public for your final submission.
+
 
 ## Column Header Descriptions
 
