@@ -167,3 +167,5 @@ data/*
 
 # But not the _.keep file
 !data/_.keep
+
+catB_train.*
